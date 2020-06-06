@@ -1,11 +1,11 @@
 # Posts are coming soon...
 
-[Bypassing Antivirus Using msbuild.exe](./bypassing-antivirus-using-msbuild).
+[Bypassing Antivirus Using msbuild.exe](./bypassing-antivirus-using-msbuild)
 
-[Link to another page](./another-page.html).
+[Bypassing Powershell Constrained Language Mode](./bypassing-powershell-constrained-language-mode)
 
-[Link to another page](./another-page.html).
+[Bypassing Anti Malware Scan Interface (AMSI)](./bypassing-AMSI)
 
-[Link to another page](./another-page.html).
+[Hunting-Named-Pipe-Impersonation](./hunting-named-pipe-impersonation)
 
-[Link to another page](./another-page.html).
+[As-Rep Roasting and Kerberoasting](./as-rep-roasting-and-kerberoasting)
