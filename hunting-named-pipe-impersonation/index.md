@@ -1,0 +1,1 @@
+# Hunting-Named-Pipe-Impersonation
