@@ -1,1 +1,1 @@
-# Hunting-Named-Pipe-Impersonation
+# Hunting Named Pipe Impersonation
